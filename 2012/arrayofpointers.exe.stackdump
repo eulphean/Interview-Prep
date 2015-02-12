@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004011FD
+eax=611A1EF6 ebx=00000000 ecx=00000004 edx=00000001 esi=61273F30 edi=611A1EDB
+ebp=0028AC68 esp=0028AC40 program=C:\users\amayk\desktop\arrays\arrayofpointers.exe, pid 4780, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028AC68  004011FD  (00000001, 0028AC90, 80010100, 612756B2)
+0028ACF8  61007535  (00000000, 0028CD78, 61006B20, 00000000)
+End of stack trace

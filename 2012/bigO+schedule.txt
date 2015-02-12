@@ -1,0 +1,16 @@
+/*
+	Big (O) Notation - O(1) < O (logn) < O (n) < O (n.logn) < O (n^2) < O (n^3)
+	
+	Schedule for Today -
+	(1) Double pointers and multi-dimensional arrays (done)
+	(2) Basic Sorting (The first three approaches) - (done)
+	(3) Basic Recursion, searching (Binary approach), definitely the recursion tree - some recursion questions as well (Done)
+	(4) Advanced Sorting (might not program it) 
+	
+	Then do the challenging and dirty array, strings, and other problems {All day tomorrow}
+	
+	- Start off linked list - Mostly quick functions
+	- Trees - Mostly quick functions
+	- Object oriented design (heavy coding)
+*/
+

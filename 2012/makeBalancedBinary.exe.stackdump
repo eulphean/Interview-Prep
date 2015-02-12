@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0028ACF8
+eax=00000000 ebx=00000000 ecx=00000000 edx=6118C480 esi=61273F30 edi=611A1EDB
+ebp=0000002F esp=0028AC70 program=C:\users\amayk\desktop\arrays\makeBalancedBinary.exe, pid 2892, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+      3 [main] makeBalancedBinary 2892 exception::handle: Error while dumping state (probably corrupted stack)
